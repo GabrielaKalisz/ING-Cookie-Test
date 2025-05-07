@@ -1,6 +1,6 @@
 # ING-Cookie-Test
 
-1. Sklonuj repozytorium (lub pobierz pliki jako ZIP):
+1. Sklonuj repozytorium:
 
 ```bash
 git clone https://github.com/GabrielaKalisz/ING-Cookie-Test.git
