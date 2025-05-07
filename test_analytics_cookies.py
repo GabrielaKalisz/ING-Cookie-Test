@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 
-def test_accept_analytics_cookies():
+def test_analytics_cookies():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
@@ -23,3 +23,5 @@ def test_accept_analytics_cookies():
         print("Test przeszedł pomyślnie – znaleziono poprawne cookie analityczne")
 
         browser.close()
+
+test_analytics_cookies()
