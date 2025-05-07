@@ -3,7 +3,7 @@
 1. Sklonuj repozytorium (lub pobierz pliki jako ZIP):
 
 ```bash
-git clone https://github.com/twoj-login/ING-Cookie-Test.git
+git clone https://github.com/GabrielaKalisz/ING-Cookie-Test.git
 cd ING-Cookie-Test
  ```
 2. Zainstaluj bibliotekę Playwright:
