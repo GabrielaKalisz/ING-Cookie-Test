@@ -11,7 +11,11 @@ cd ING-Cookie-Test
 ```bash
 pip install playwright
 ```
-3. Uruchom test:
+3. Zainstaluj wymagane przeglądarki
+```bash
+playwright install
+```
+4. Uruchom test:
 
 ```bash
 python test_analytics_cookies.py
